@@ -9,6 +9,7 @@ Japanese
 Korean
 
 ---------------------------FROM MASTER BRANCH-----------------------------
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 ---------------------------From MASTER BRANCH AGAIN-----------------------
@@ -16,3 +17,5 @@ Korean
 --------------------------From Rebase Branch---------------------------
 
 >>>>>>> 452327c... Rebase updated lang.txt
+=======
+>>>>>>> parent of 502e2a0... mater updated lang again
