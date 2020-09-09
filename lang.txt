@@ -1,4 +1,11 @@
-hiindi
-english
-sanskrit
-tamil
+Hiindi
+English
+Sanskrit
+Tamil
+
+
+Chinese
+Japanese
+Korean
+
+
